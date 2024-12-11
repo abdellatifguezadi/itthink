@@ -87,3 +87,14 @@ CREATE TABLE Temoignages (
     FOREIGN KEY (id_utilisateur) REFERENCES Utilisateurs(id_utilisateur)
 );
 
+
+### Explication du contenu :
+
+- **Contexte** : Présente le but de la base de données et les entités principales.
+- **Schéma de la base de données** : Détaille les tables principales et leurs relations.
+- **Scripts SQL** : Comprend les requêtes pour créer les tables, ainsi que des exemples d'opérations courantes (insertion, mise à jour, suppression).
+- **Installation** : Instructions pour cloner le projet et importer le fichier SQL.
+- **Auteurs** et **License** : Sections pour indiquer l'auteur du projet et la licence associée.
+
+
+
